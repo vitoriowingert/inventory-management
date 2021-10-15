@@ -1,6 +1,6 @@
 # Gerenciador de Estoque
-Orgulhosamente compartilho meu **PRIMEIRO** desenvolvimento em Laravel!
+I proudly share my **FIRST** development in Laravel!
 
-Ainda não está finalizado porém o intuito é que se possa cadastrar, excluir, dar baixa e ter um relatório de items retirados do estoque, com opção de se fazer via Web e também via API (próximos passos).
+It's not finished yet but the intention is that you can register, delete, write off and have a report of items removed from stock, with option to do via Web and also via API (next steps).
 
-E mesmo sendo o filho único, já percebi o quanto esse framework pode ser útil!!!
+Even being the only child, I've realized how useful this framework can be!
